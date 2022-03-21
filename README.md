@@ -14,7 +14,7 @@ For this project the following technologies were implemented:
 
 ## Prueba técnica para desarrollador FrontEnd haciendo uso de React JS
 
-Descripción
+## Descripción
 
 Nuestro mercado favorito tiene un servicio nuevo en el que cada día podemos pedir un plato
 y nos permite hacer un pedido con los ingredientes, hoy toca Risotto de setas vegano.
@@ -30,7 +30,7 @@ tener elementos seleccionados).
 ● El botón de compra siempre marcará dicha cantidad, al pulsar el boton muestra un
 modal simulando que se ha comprado con éxito.
 
-###Para Iniciar ver el proyecto es necesario seguir estos pasos:
+## Para Iniciar ver el proyecto es necesario seguir estos pasos:
 1.Clonar Repositorio
 2.En la terminal installar todas las dependencias con npm install
 3.Para el despliegue local npm start
