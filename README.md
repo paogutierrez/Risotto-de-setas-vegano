@@ -30,3 +30,13 @@ tener elementos seleccionados).
 ● El botón de compra siempre marcará dicha cantidad, al pulsar el boton muestra un
 modal simulando que se ha comprado con éxito.
 
+###Para Iniciar ver el proyecto es necesario seguir estos pasos:
+1.Clonar Repositorio
+2.En la terminal installar todas las dependencias con npm install
+3.Para el despliegue local npm start
+
+
+Aqui podras ver el despliegue de la aplicacion en vercel
+
+https://risotto-de-setas-vegano.vercel.app/
+
