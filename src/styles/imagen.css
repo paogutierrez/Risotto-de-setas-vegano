@@ -18,7 +18,15 @@ h4{
     text-align: center;
 }
 .parrafoInicial{
-    font-family: 'Inconsolata', monospace;
-    font-size: 1.2em;
-    padding-top:10px;;
+    font-family:  'Inconsolata', monospace;;
+    font-size: 1em;
+    padding:20px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: 2em;
+    letter-spacing: 2px;
+    background-color:rgba(134, 53, 16, 0.349); 
+    border-radius:10px; 
+  
 }
