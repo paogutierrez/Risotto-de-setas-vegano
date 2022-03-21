@@ -1,0 +1,74 @@
+.inicio {
+    background-color: rgb(134, 54, 16);
+  padding: 15px 30px;
+  font-family: "Inconsolata", monospace;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 6px 40px;
+  color: black;
+  font-size: 1.1em;
+}
+.formulario {
+  text-align: center;
+  background-image: 
+    url(https://res.cloudinary.com/do2ijjhfn/image/upload/v1647810779/pexels-klaus-nielsen-6294402_ctqhnj.jpg);
+  background-size: cover;
+  margin: 20px 200px;
+  padding: 20px 10px;
+  border-radius: 15px;
+}
+.formulario1 {
+    text-align: center;
+    background-image: 
+      url(https://res.cloudinary.com/do2ijjhfn/image/upload/v1647812398/pexels-olga-lioncat-7245457_leuejh.jpg);
+    background-size: cover;
+    margin: 20px 200px;
+    padding: 20px 10px;
+    border-radius: 15px;
+  }
+.input1 {
+  padding: 10px 50px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: black;
+  color:white;
+  
+}
+.color {
+  font-family: "Inconsolata", monospace;
+  font-size: 1em;
+  padding-top:0px;
+}
+.botonLogin{
+    background-color: rgb(134, 54, 16);
+    border-radius: 6px;
+    padding:10px;
+    font-family: "Inconsolata", monospace;
+    color: white;
+    cursor: pointer;
+    border:none;
+}
+.botonLogin:hover{
+    background-color:orangered;
+    border-radius: 6px;
+    padding:10px;
+    font-family: "Inconsolata", monospace;
+    color: white;
+    cursor: pointer;
+    border:none;
+}
+.color1{
+    color:white;
+    font-size: 1em;
+    padding:10px;
+    letter-spacing:2px;
+}
+.color1:hover{
+    color:blue;
+    font-size: 1em;
+    margin:10px;
+    letter-spacing:2px;
+}
+.google-icon{
+  cursor:pointer;
+}
